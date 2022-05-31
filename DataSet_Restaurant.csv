@@ -1,0 +1,542 @@
+Register name,Session id,Sale date,Receipt no,Status,Ordertype name,Item name,Variant name,Category name,Selling Per Unit,Selling price,Conversion quantity,Item quantity,Conversion name,Item amount,Sales discount amount,Day of Sale
+FusionDosaRegister,11,06-03-20,BL11,Ordered,Eat in,Dry fruit dosa,Regular,Fusion Vintage,100,100,1,1,Unit,100,40,6
+FusionDosaRegister,11,06-03-20,BL12,Ordered,Eat in,Pizza dosa,Regular,Fusion Vintage,100,100,1,1,Unit,100,40,6
+FusionDosaRegister,11,06-03-20,BL13,Ordered,Eat in,Pizza dosa,Regular,Fusion Vintage,100,100,1,1,Unit,100,40,6
+FusionDosaRegister,11,06-03-20,BL13,Ordered,Eat in,Paneer chilli,Regular,Fusion Spicy,100,100,1,1,Unit,100,40,6
+FusionDosaRegister,11,06-03-20,BL14,Ordered,Eat in,Pizza dosa,Regular,Fusion Vintage,100,100,1,1,Unit,100,40,6
+FusionDosaRegister,11,06-03-20,BL15,Ordered,Eat in,Paneer chilli,Regular,Fusion Spicy,100,100,1,1,Unit,100,40,6
+CO-1,15,06-03-20,LN7,Ordered,Eat in,Dubai dosa,Regular,Fusion Special,100,100,1,1,Unit,100,40,6
+CO-1,15,06-03-20,LN7,Ordered,Eat in,Mushroom chilli cheese,Regular,Fusion Chilli Cheese,100,100,1,1,Unit,100,40,6
+CO-1,15,06-03-20,LN7,Ordered,Eat in,Pizza dosa,Regular,Fusion Vintage,100,100,1,1,Unit,100,40,6
+CO-1,15,06-03-20,LN12,Ordered,Eat in,Paneer chilli,Regular,Fusion Spicy,100,100,1,1,Unit,100,40,6
+CO-1,15,06-03-20,LN12,Ordered,Eat in,Pizza dosa,Regular,Fusion Vintage,100,100,1,1,Unit,100,40,6
+CO-1,15,06-03-20,LN14,Ordered,Eat in,Baby corn cheese,Regular,Fusion Doubles,100,100,1,1,Unit,100,40,6
+CO-1,15,06-03-20,LN15,Ordered,Eat in,Pizza dosa,Regular,Fusion Vintage,100,100,1,1,Unit,100,40,6
+CO-1,15,06-03-20,LN17,Ordered,Eat in,Dubai dosa,Regular,Fusion Special,100,100,1,1,Unit,100,40,6
+CO-1,15,06-03-20,LN17,Ordered,Eat in,Baby corn chilli,Regular,Fusion Spicy,100,100,1,1,Unit,100,40,6
+CO-1,15,06-03-20,LN17,Ordered,Eat in,Paneer chilli,Regular,Fusion Spicy,100,100,1,1,Unit,100,40,6
+CO-1,15,06-03-20,LN17,Ordered,Eat in,Pizza dosa,Regular,Fusion Vintage,100,100,1,1,Unit,100,40,6
+CO-1,15,06-03-20,LN18,Ordered,Eat in,Baby corn cheese,Regular,Fusion Doubles,100,100,1,1,Unit,100,40,6
+CO-1,15,06-03-20,LN18,Ordered,Eat in,Paneer chilli,Regular,Fusion Spicy,100,100,1,1,Unit,100,40,6
+CO-1,15,06-03-20,LN20,Ordered,Eat in,Baby corn chilli,Regular,Fusion Spicy,100,100,1,1,Unit,100,40,6
+CO-1,15,06-03-20,LN20,Ordered,Eat in,Kerala masala chilli,Regular,Fusion Spicy,100,100,1,1,Unit,100,40,6
+CO-1,15,06-03-20,LN21,Ordered,Eat in,Pizza dosa,Regular,Fusion Vintage,100,100,1,1,Unit,100,40,6
+CO-1,15,06-03-20,LN23,Ordered,Eat in,Pizza dosa,Regular,Fusion Vintage,100,100,1,1,Unit,100,40,6
+CO-1,15,06-03-20,LN24,Ordered,Eat in,Kerala masala chilli,Regular,Fusion Spicy,100,100,1,1,Unit,100,40,6
+CO-1,15,06-03-20,LN24,Ordered,Eat in,Mushroom chilli,Regular,Fusion Spicy,100,100,1,1,Unit,100,40,6
+CO-1,15,06-03-20,LN28,Ordered,Eat in,Pizza dosa,Regular,Fusion Vintage,100,100,1,1,Unit,100,40,6
+CO-1,15,06-03-20,LN29,Ordered,Eat in,Mushroom chilli cheese,Regular,Fusion Chilli Cheese,100,100,1,1,Unit,100,40,6
+FusionDosaRegister,16,07-03-20,BL17,Ordered,Eat in,Pizza dosa,Regular,Fusion Vintage,100,100,1,1,Unit,100,40,7
+CO-1,18,07-03-20,LN30,Ordered,Eat in,Kaju mushroom,Regular,Fusion Kaju,100,100,1,1,Unit,100,40,7
+FusionDosaRegister,16,07-03-20,BL20,Ordered,Eat in,Kaju paneer,Regular,Fusion Kaju,100,100,1,1,Unit,100,40,7
+FusionDosaRegister,16,07-03-20,BL20,Ordered,Eat in,Dubai dosa,Regular,Fusion Special,100,100,1,1,Unit,100,40,7
+FusionDosaRegister,16,07-03-20,BL21,Ordered,Eat in,Baby corn cheese,Regular,Fusion Doubles,100,100,1,1,Unit,100,40,7
+FusionDosaRegister,16,07-03-20,BL22,Ordered,Eat in,Kaju mushroom,Regular,Fusion Kaju,100,100,1,1,Unit,100,40,7
+FusionDosaRegister,16,07-03-20,BL22,Ordered,Eat in,Mushroom chilli cheese,Regular,Fusion Chilli Cheese,100,100,1,1,Unit,100,40,7
+FusionDosaRegister,16,07-03-20,BL23,Ordered,Eat in,Paneer Mushroom Cheese,Regular,Fusion Triples,100,100,1,1,Unit,100,40,7
+FusionDosaRegister,16,07-03-20,BL26,Ordered,Eat in,Baby corn cheese,Regular,Fusion Doubles,100,100,1,1,Unit,100,40,7
+FusionDosaRegister,16,07-03-20,BL29,Ordered,Eat in,Baby corn chilli,Regular,Fusion Spicy,100,100,1,1,Unit,100,40,7
+FusionDosaRegister,16,07-03-20,BL33,Ordered,Eat in,Paneer mushroom dosa,Regular,Fusion Combo,100,100,1,1,Unit,100,40,7
+FusionDosaRegister,16,07-03-20,BL34,Ordered,Eat in,American chopsuey cheese,Regular,Fusion Doubles,100,100,1,1,Unit,100,40,7
+FusionDosaRegister,16,07-03-20,BL35,Ordered,Eat in,American chopsuey cheese,Regular,Fusion Doubles,100,100,1,1,Unit,100,40,7
+FusionDosaRegister,16,07-03-20,BL37,Ordered,Eat in,Pizza dosa,Regular,Fusion Vintage,100,100,1,1,Unit,100,40,7
+CO-1,20,07-03-20,LN35,Ordered,Eat in,Paneer chilli,Regular,Fusion Spicy,100,100,1,1,Unit,100,40,7
+CO-1,15,07-03-20,LN24,Ordered,Eat in,Mushroom chilli,Regular,Fusion Spicy,100,100,1,1,Unit,100,40,7
+CO-1,15,07-03-20,LN28,Ordered,Eat in,Pizza dosa,Regular,Fusion Vintage,100,100,1,1,Unit,100,40,7
+CO-1,15,07-03-20,LN29,Ordered,Eat in,Mushroom chilli cheese,Regular,Fusion Chilli Cheese,100,100,1,1,Unit,100,40,7
+FusionDosaRegister,23,08-03-20,BL43,Ordered,Eat in,Pizza dosa,Regular,Fusion Vintage,100,100,1,1,Unit,100,40,8
+FusionDosaRegister,23,08-03-20,BL47,Ordered,Eat in,Paneer chilli,Regular,Fusion Spicy,100,100,1,1,Unit,100,40,8
+FusionDosaRegister,23,08-03-20,BL47,Ordered,Eat in,Pizza dosa,Regular,Fusion Vintage,100,100,1,1,Unit,100,40,8
+FusionDosaRegister,23,08-03-20,BL49,Ordered,Eat in,Pizza dosa,Regular,Fusion Vintage,100,100,1,1,Unit,100,40,8
+FusionDosaRegister,23,08-03-20,BL49,Ordered,Eat in,Kaju mushroom,Regular,Fusion Kaju,100,100,1,1,Unit,100,40,8
+FusionDosaRegister,23,08-03-20,BL50,Ordered,Eat in,Pizza dosa,Regular,Fusion Vintage,100,100,1,1,Unit,100,40,8
+FusionDosaRegister,23,08-03-20,BL50,Ordered,Eat in,Dubai dosa,Regular,Fusion Special,100,100,1,1,Unit,100,40,8
+FusionDosaRegister,23,08-03-20,BL51,Ordered,Eat in,Paneer Mushroom Cheese,Regular,Fusion Triples,100,100,1,1,Unit,100,40,8
+FusionDosaRegister,23,08-03-20,BL58,Ordered,Eat in,Mushroom chilli cheese,Regular,Fusion Chilli Cheese,100,100,1,1,Unit,100,40,8
+FusionDosaRegister,23,08-03-20,BL58,Ordered,Eat in,Palak Paneer Cheese,Regular,Fusion Triples,100,100,1,1,Unit,100,40,8
+FusionDosaRegister,23,08-03-20,BL59,Ordered,Eat in,Paneer mushroom dosa,Regular,Fusion Combo,100,100,1,1,Unit,100,40,8
+FusionDosaRegister,23,08-03-20,BL59,Ordered,Eat in,Dubai dosa,Regular,Fusion Special,100,100,1,1,Unit,100,40,8
+FusionDosaRegister,23,08-03-20,BL61,Ordered,Eat in,Paneer Sweet Corn Cheese,Regular,Fusion Triples,100,100,1,1,Unit,100,40,8
+FusionDosaRegister,23,08-03-20,BL66,Ordered,Eat in,Pizza dosa,Regular,Fusion Vintage,100,100,1,1,Unit,100,40,8
+FusionDosaRegister,23,08-03-20,BL66,Ordered,Eat in,Baby corn cheese,Regular,Fusion Doubles,100,100,1,1,Unit,100,40,8
+FusionDosaRegister,23,08-03-20,BL68,Ordered,Eat in,Schezwan paneer dosa,Regular,Fusion Schezwan,100,100,1,1,Unit,100,40,8
+FusionDosaRegister,23,08-03-20,BL69,Ordered,Eat in,Kaju paneer,Regular,Fusion Kaju,100,100,1,1,Unit,100,40,8
+FusionDosaRegister,23,08-03-20,BL69,Ordered,Eat in,Schezwan mushroom dosa,Regular,Fusion Schezwan,100,100,1,1,Unit,100,40,8
+FusionDosaRegister,23,08-03-20,BL70,Ordered,Eat in,American chopsuey cheese,Regular,Fusion Doubles,100,100,1,1,Unit,100,40,8
+FusionDosaRegister,23,08-03-20,BL70,Ordered,Eat in,Pizza dosa,Regular,Fusion Vintage,100,100,1,1,Unit,100,40,8
+FusionDosaRegister,23,08-03-20,BL71,Ordered,Eat in,American chopsuey cheese,Regular,Fusion Doubles,100,100,1,1,Unit,100,40,8
+FusionDosaRegister,23,08-03-20,BL71,Ordered,Eat in,Pizza dosa,Regular,Fusion Vintage,100,100,1,1,Unit,100,40,8
+FusionDosaRegister,23,08-03-20,BL74,Ordered,Eat in,Paneer Mushroom Cheese,Regular,Fusion Triples,100,100,1,1,Unit,100,40,8
+FusionDosaRegister,23,08-03-20,BL76,Ordered,Eat in,Dubai dosa,Regular,Fusion Special,100,100,1,1,Unit,100,40,8
+FusionDosaRegister,24,09-03-20,BL81,Ordered,Eat in,Dubai dosa,Regular,Fusion Special,100,100,1,1,Unit,100,40,9
+FusionDosaRegister,24,09-03-20,BL82,Ordered,Eat in,Pizza dosa,Regular,Fusion Vintage,100,100,1,1,Unit,100,40,9
+FusionDosaRegister,24,09-03-20,BL83,Ordered,Eat in,Mushroom chilli cheese,Regular,Fusion Chilli Cheese,100,100,1,1,Unit,100,40,9
+FusionDosaRegister,24,09-03-20,BL84,Ordered,Eat in,Dry fruit dosa,Regular,Fusion Vintage,100,100,1,1,Unit,100,40,9
+FusionDosaRegister,24,09-03-20,BL85,Ordered,Eat in,Baby corn cheese,Regular,Fusion Doubles,100,100,1,1,Unit,100,40,9
+FusionDosaRegister,24,09-03-20,BL86,Ordered,Eat in,Mushroom chilli,Regular,Fusion Spicy,100,100,1,1,Unit,100,40,9
+FusionDosaRegister,24,09-03-20,BL88,Ordered,Eat in,Paneer mushroom dosa,Regular,Fusion Combo,100,100,1,1,Unit,100,40,9
+FusionDosaRegister,24,09-03-20,BL91,Ordered,Eat in,American chopsuey cheese,Regular,Fusion Doubles,100,100,1,1,Unit,100,40,9
+FusionDosaRegister,24,09-03-20,BL92,Ordered,Eat in,Paneer mushroom dosa,Regular,Fusion Combo,100,100,1,1,Unit,100,40,9
+FusionDosaRegister,24,09-03-20,BL94,Ordered,Eat in,Mushroom chilli cheese,Regular,Fusion Chilli Cheese,100,100,1,1,Unit,100,40,9
+FusionDosaRegister,24,09-03-20,BL94,Ordered,Eat in,Schezwan paneer dosa,Regular,Fusion Schezwan,100,100,1,1,Unit,100,40,9
+FusionDosaRegister,24,09-03-20,BL94,Ordered,Eat in,Paneer mushroom dosa,Regular,Fusion Combo,100,100,1,1,Unit,100,40,9
+FusionDosaRegister,24,09-03-20,BL95,Ordered,Eat in,Pizza dosa,Regular,Fusion Vintage,100,100,1,1,Unit,100,40,9
+FusionDosaRegister,24,09-03-20,BL95,Ordered,Eat in,Paneer Mushroom Cheese,Regular,Fusion Triples,100,100,1,1,Unit,100,40,9
+FusionDosaRegister,24,09-03-20,BL95,Ordered,Eat in,Dubai dosa,Regular,Fusion Special,100,100,1,1,Unit,100,40,9
+FusionDosaRegister,24,09-03-20,BL96,Ordered,Eat in,Mushroom chilli cheese,Regular,Fusion Chilli Cheese,100,100,1,1,Unit,100,40,9
+FusionDosaRegister,24,09-03-20,BL97,Ordered,Eat in,Paneer Sweet Corn Cheese,Regular,Fusion Triples,100,100,1,1,Unit,100,40,9
+FusionDosaRegister,25,10-03-20,BL101,Ordered,Eat in,Pizza dosa,Regular,Fusion Vintage,100,100,1,1,Unit,100,40,10
+FusionDosaRegister,25,10-03-20,BL102,Ordered,Eat in,Mushroom chilli,Regular,Fusion Spicy,100,100,1,1,Unit,100,40,10
+FusionDosaRegister,25,10-03-20,BL104,Ordered,Eat in,Paneer Mushroom Cheese,Regular,Fusion Triples,100,100,1,1,Unit,100,40,10
+FusionDosaRegister,25,10-03-20,BL106,Ordered,Eat in,Mushroom chilli cheese,Regular,Fusion Chilli Cheese,100,100,1,1,Unit,100,40,10
+FusionDosaRegister,25,10-03-20,BL107,Ordered,Eat in,Pizza dosa,Regular,Fusion Vintage,100,100,1,1,Unit,100,40,10
+FusionDosaRegister,25,10-03-20,BL108,Ordered,Eat in,Schezwan mushroom dosa,Regular,Fusion Schezwan,100,100,1,1,Unit,100,40,10
+FusionDosaRegister,25,10-03-20,BL108,Ordered,Eat in,Pizza dosa,Regular,Fusion Vintage,100,100,1,1,Unit,100,40,10
+FusionDosaRegister,25,10-03-20,BL108,Ordered,Eat in,Palak Paneer Cheese,Regular,Fusion Triples,100,100,1,1,Unit,100,40,10
+FusionDosaRegister,25,10-03-20,BL110,Ordered,Eat in,Pizza dosa,Regular,Fusion Vintage,100,100,1,1,Unit,100,40,10
+FusionDosaRegister,25,10-03-20,BL110,Ordered,Eat in,Baby corn cheese,Regular,Fusion Doubles,100,100,1,1,Unit,100,40,10
+FusionDosaRegister,25,10-03-20,BL110,Ordered,Eat in,American chopsuey cheese,Regular,Fusion Doubles,100,100,1,1,Unit,100,40,10
+FusionDosaRegister,25,10-03-20,BL111,Ordered,Eat in,Mushroom chilli cheese,Regular,Fusion Chilli Cheese,100,100,1,1,Unit,100,40,10
+FusionDosaRegister,25,10-03-20,BL114,Ordered,Eat in,Schezwan paneer dosa,Regular,Fusion Schezwan,100,100,1,1,Unit,100,40,10
+FusionDosaRegister,25,10-03-20,BL116,Ordered,Eat in,Mushroom chilli cheese,Regular,Fusion Chilli Cheese,100,100,1,1,Unit,100,40,10
+FusionDosaRegister,25,10-03-20,BL117,Ordered,Eat in,Mushroom chilli cheese,Regular,Fusion Chilli Cheese,100,100,1,1,Unit,100,40,10
+FusionDosaRegister,25,10-03-20,BL120,Ordered,Eat in,Baby corn cheese,Regular,Fusion Doubles,100,100,1,1,Unit,100,40,10
+FusionDosaRegister,25,10-03-20,BL121,Ordered,Eat in,Baby corn cheese,Regular,Fusion Doubles,100,100,1,1,Unit,100,40,10
+FusionDosaRegister,27,11-03-20,BL123,Ordered,Eat in,Mushroom chilli,Regular,Fusion Spicy,100,100,1,1,Unit,100,0,11
+FusionDosaRegister,27,11-03-20,BL129,Ordered,Take away,Paneer Mushroom Cheese,Regular,Fusion Triples,100,100,1,1,Unit,100,0,11
+FusionDosaRegister,27,11-03-20,BL130,Ordered,Take away,Schezwan mushroom dosa,Regular,Fusion Schezwan,100,100,1,1,Unit,100,0,11
+FusionDosaRegister,27,11-03-20,BL131,Ordered,Eat in,Mushroom chilli cheese,Regular,Fusion Chilli Cheese,100,100,1,1,Unit,100,0,11
+FusionDosaRegister,27,11-03-20,BL132,Ordered,Eat in,Dubai dosa,Regular,Fusion Special,100,100,1,1,Unit,100,0,11
+FusionDosaRegister,27,11-03-20,BL133,Ordered,Eat in,Dubai dosa,Regular,Fusion Special,100,100,1,1,Unit,100,0,11
+FusionDosaRegister,27,11-03-20,BL136,Ordered,Eat in,Paneer mushroom dosa,Regular,Fusion Combo,100,100,1,1,Unit,100,0,11
+FusionDosaRegister,27,11-03-20,BL136,Ordered,Eat in,Schezwan paneer dosa,Regular,Fusion Schezwan,100,100,1,1,Unit,100,0,11
+FusionDosaRegister,27,11-03-20,BL138,Ordered,Eat in,Pizza dosa,Regular,Fusion Vintage,100,100,1,1,Unit,100,0,11
+FusionDosaRegister,28,12-03-20,BL139,Ordered,Eat in,Mushroom chilli cheese,Regular,Fusion Chilli Cheese,100,100,1,1,Unit,100,0,12
+FusionDosaRegister,28,12-03-20,BL141,Ordered,Eat in,Schezwan mushroom dosa,Regular,Fusion Schezwan,100,100,1,1,Unit,100,0,12
+FusionDosaRegister,28,12-03-20,BL142,Ordered,Eat in,Pizza dosa,Regular,Fusion Vintage,100,100,1,1,Unit,100,0,12
+FusionDosaRegister,28,12-03-20,BL143,Ordered,Take away,Pizza dosa,Regular,Fusion Vintage,100,100,1,1,Unit,100,0,12
+FusionDosaRegister,28,12-03-20,BL145,Ordered,Take away,Palak Paneer Cheese,Regular,Fusion Triples,100,100,1,1,Unit,100,0,12
+FusionDosaRegister,28,12-03-20,BL146,Ordered,Take away,Mushroom chilli,Regular,Fusion Spicy,100,100,1,1,Unit,100,0,12
+FusionDosaRegister,28,12-03-20,BL146,Ordered,Take away,Pizza dosa,Regular,Fusion Vintage,100,100,1,1,Unit,100,0,12
+FusionDosaRegister,28,12-03-20,BL155,Ordered,Eat in,Dubai dosa,Regular,Fusion Special,100,100,1,1,Unit,100,0,12
+FusionDosaRegister,29,13-03-20,BL156,Ordered,Eat in,Paneer Baby Corn Cheese,Regular,Fusion Triples,100,100,1,1,Unit,100,0,13
+FusionDosaRegister,29,13-03-20,BL157,Ordered,Eat in,Pizza dosa,Regular,Fusion Vintage,100,100,1,1,Unit,100,0,13
+FusionDosaRegister,29,13-03-20,BL158,Ordered,Eat in,Palak Paneer Cheese,Regular,Fusion Triples,100,100,1,1,Unit,100,0,13
+FusionDosaRegister,29,13-03-20,BL159,Ordered,Eat in,Pizza dosa,Regular,Fusion Vintage,100,100,1,1,Unit,100,0,13
+FusionDosaRegister,29,13-03-20,BL161,Ordered,Eat in,Paneer Mushroom Cheese,Regular,Fusion Triples,100,100,1,1,Unit,100,0,13
+FusionDosaRegister,29,13-03-20,BL163,Ordered,Eat in,Pizza dosa,Regular,Fusion Vintage,100,100,1,1,Unit,100,0,13
+FusionDosaRegister,29,13-03-20,BL165,Ordered,Eat in,Kerala masala chilli,Regular,Fusion Spicy,100,100,1,1,Unit,100,0,13
+FusionDosaRegister,29,13-03-20,BL167,Ordered,Eat in,Paneer chilli,Regular,Fusion Spicy,100,100,1,1,Unit,100,0,13
+FusionDosaRegister,29,13-03-20,BL167,Ordered,Eat in,Paneer Mushroom Cheese,Regular,Fusion Triples,100,100,1,1,Unit,100,0,13
+FusionDosaRegister,29,13-03-20,BL168,Ordered,Eat in,Baby corn cheese,Regular,Fusion Doubles,100,100,1,1,Unit,100,0,13
+FusionDosaRegister,29,13-03-20,BL168,Ordered,Eat in,Pizza dosa,Regular,Fusion Vintage,100,100,1,1,Unit,100,0,13
+FusionDosaRegister,30,14-03-20,BL172,Ordered,Eat in,Pizza dosa,Regular,Fusion Vintage,100,100,1,1,Unit,100,0,14
+FusionDosaRegister,30,14-03-20,BL173,Ordered,Eat in,Mushroom chilli,Regular,Fusion Spicy,100,100,1,1,Unit,100,0,14
+FusionDosaRegister,30,14-03-20,BL174,Ordered,Eat in,Dubai dosa,Regular,Fusion Special,100,100,1,1,Unit,100,0,14
+FusionDosaRegister,30,14-03-20,BL175,Ordered,Eat in,Kerala masala chilli,Regular,Fusion Spicy,100,100,1,1,Unit,100,0,14
+FusionDosaRegister,30,14-03-20,BL175,Ordered,Eat in,Mushroom chilli cheese,Regular,Fusion Chilli Cheese,100,100,1,1,Unit,100,0,14
+FusionDosaRegister,30,14-03-20,BL175,Ordered,Eat in,Dry fruit dosa,Regular,Fusion Vintage,100,100,1,1,Unit,100,0,14
+FusionDosaRegister,30,14-03-20,BL181,Ordered,Eat in,Pizza dosa,Regular,Fusion Vintage,100,100,1,1,Unit,100,0,14
+FusionDosaRegister,30,14-03-20,BL182,Ordered,Eat in,Dubai dosa,Regular,Fusion Special,100,100,1,1,Unit,100,0,14
+FusionDosaRegister,31,15-03-20,BL184,Ordered,Eat in,American chopsuey cheese,Regular,Fusion Doubles,100,100,1,1,Unit,100,0,15
+FusionDosaRegister,31,15-03-20,BL184,Ordered,Eat in,Pizza dosa,Regular,Fusion Vintage,100,100,1,1,Unit,100,0,15
+FusionDosaRegister,31,15-03-20,BL184,Ordered,Eat in,Paneer Baby Corn Cheese,Regular,Fusion Triples,100,100,1,1,Unit,100,0,15
+FusionDosaRegister,31,15-03-20,BL185,Ordered,Eat in,Pizza dosa,Regular,Fusion Vintage,100,100,1,1,Unit,100,0,15
+FusionDosaRegister,31,15-03-20,BL186,Ordered,Eat in,Dry fruit dosa,Regular,Fusion Vintage,100,100,1,1,Unit,100,0,15
+FusionDosaRegister,31,15-03-20,BL189,Ordered,Eat in,Paneer Baby Corn Cheese,Regular,Fusion Triples,100,100,1,1,Unit,100,0,15
+FusionDosaRegister,31,15-03-20,BL191,Ordered,Eat in,Pizza dosa,Regular,Fusion Vintage,100,100,1,1,Unit,100,0,15
+FusionDosaRegister,31,15-03-20,BL191,Ordered,Eat in,American chopsuey,Regular,Fusion Vintage,100,100,1,1,Unit,100,0,15
+FusionDosaRegister,31,15-03-20,BL191,Ordered,Eat in,Sweet corn Baby corn,Regular,Fusion Combo,100,100,1,1,Unit,100,0,15
+FusionDosaRegister,32,16-03-20,BL192,Ordered,Eat in,Mushroom chilli,Regular,Fusion Spicy,100,100,1,1,Unit,100,0,16
+FusionDosaRegister,32,16-03-20,BL194,Ordered,Eat in,Paneer Sweet Corn Cheese,Regular,Fusion Triples,100,100,1,1,Unit,100,0,16
+FusionDosaRegister,32,16-03-20,BL195,Ordered,Eat in,Dry fruit dosa,Regular,Fusion Vintage,100,100,1,1,Unit,100,0,16
+FusionDosaRegister,32,16-03-20,BL197,Ordered,Eat in,Pizza dosa,Regular,Fusion Vintage,100,100,1,1,Unit,100,0,16
+FusionDosaRegister,33,17-03-20,BL198,Ordered,Eat in,Paneer chilli,Regular,Fusion Spicy,100,100,1,1,Unit,100,0,17
+FusionDosaRegister,33,17-03-20,BL199,Ordered,Eat in,Schezwan paneer dosa,Regular,Fusion Schezwan,100,100,1,1,Unit,100,0,17
+FusionDosaRegister,33,17-03-20,BL199,Ordered,Eat in,Pizza dosa,Regular,Fusion Vintage,100,100,1,1,Unit,100,0,17
+FusionDosaRegister,33,17-03-20,BL201,Ordered,Eat in,Paneer Sweet Corn Cheese,Regular,Fusion Triples,100,100,1,1,Unit,100,0,17
+FusionDosaRegister,33,17-03-20,BL203,Ordered,Eat in,Pizza dosa,Regular,Fusion Vintage,100,100,1,1,Unit,100,0,17
+FusionDosaRegister,33,17-03-20,BL204,Ordered,Eat in,Palak Paneer Cheese,Regular,Fusion Triples,100,100,1,1,Unit,100,0,17
+FusionDosaRegister,33,17-03-20,BL205,Ordered,Eat in,Schezwan mushroom dosa,Regular,Fusion Schezwan,100,100,1,1,Unit,100,0,17
+FusionDosaRegister,33,17-03-20,BL206,Ordered,Eat in,Pizza dosa,Regular,Fusion Vintage,100,100,1,1,Unit,100,0,17
+FusionDosaRegister,33,17-03-20,BL208,Ordered,Eat in,Pizza dosa,Regular,Fusion Vintage,100,100,1,1,Unit,100,0,17
+FusionDosaRegister,34,18-03-20,BL209,Ordered,Eat in,Pizza dosa,Regular,Fusion Vintage,100,100,1,1,Unit,100,20,18
+FusionDosaRegister,34,18-03-20,BL213,Ordered,Eat in,Kerala masala chilli,Regular,Fusion Spicy,100,100,1,1,Unit,100,0,18
+FusionDosaRegister,34,18-03-20,BL214,Ordered,Eat in,Pizza dosa,Regular,Fusion Vintage,100,100,1,1,Unit,100,0,18
+FusionDosaRegister,34,18-03-20,BL214,Ordered,Eat in,Paneer Mushroom Cheese,Regular,Fusion Triples,100,100,1,1,Unit,100,0,18
+FusionDosaRegister,35,19-03-20,BL217,Ordered,Eat in,Spring roll mushroom dosa,Regular,Fusion Combo,100,100,1,1,Unit,100,0,19
+FusionDosaRegister,35,19-03-20,BL218,Ordered,Eat in,Kerala masala chilli,Regular,Fusion Spicy,100,100,1,1,Unit,100,20,19
+FusionDosaRegister,35,19-03-20,BL220,Ordered,Eat in,Paneer chilli,Regular,Fusion Spicy,100,100,1,1,Unit,100,0,19
+FusionDosaRegister,35,19-03-20,BL221,Ordered,Eat in,Paneer chilli,Regular,Fusion Spicy,100,100,1,1,Unit,100,0,19
+FusionDosaRegister,35,19-03-20,BL221,Ordered,Eat in,Mushroom chilli cheese,Regular,Fusion Chilli Cheese,100,100,1,1,Unit,100,0,19
+FusionDosaRegister,35,19-03-20,BL223,Ordered,Eat in,Paneer Mushroom Cheese,Regular,Fusion Triples,100,100,1,1,Unit,100,0,19
+FusionDosaRegister,35,19-03-20,BL225,Ordered,Eat in,Baby corn chilli,Regular,Fusion Spicy,100,100,1,1,Unit,100,0,19
+FusionDosaRegister,35,19-03-20,BL225,Ordered,Eat in,Mushroom chilli cheese,Regular,Fusion Chilli Cheese,100,100,1,1,Unit,100,0,19
+FusionDosaRegister,27,11-03-20,BL122,Ordered,Eat in,Mix veg chilli,Regular,Fusion Spicy,90,90,1,1,Unit,90,0,11
+FusionDosaRegister,27,11-03-20,BL122,Ordered,Eat in,Gobi chilli cheese,Regular,Fusion Chilli Cheese,90,90,1,1,Unit,90,0,11
+FusionDosaRegister,27,11-03-20,BL123,Ordered,Eat in,Paneer cheese,Regular,Fusion Doubles,90,90,1,1,Unit,90,0,11
+FusionDosaRegister,27,11-03-20,BL124,Ordered,Eat in,Chinese cheese,Regular,Fusion Doubles,90,90,1,1,Unit,90,0,11
+FusionDosaRegister,27,11-03-20,BL124,Ordered,Eat in,Paneer cheese,Regular,Fusion Doubles,90,90,1,1,Unit,90,0,11
+FusionDosaRegister,27,11-03-20,BL130,Ordered,Take away,Schezwan mixveg dosa,Regular,Fusion Schezwan,90,90,1,1,Unit,90,0,11
+FusionDosaRegister,27,11-03-20,BL131,Ordered,Eat in,Paneer cheese,Regular,Fusion Doubles,90,90,1,1,Unit,90,0,11
+FusionDosaRegister,27,11-03-20,BL132,Ordered,Eat in,Schezwan mixveg dosa,Regular,Fusion Schezwan,90,90,1,1,Unit,90,0,11
+FusionDosaRegister,28,12-03-20,BL143,Ordered,Take away,Schezwan gobi dosa,Regular,Fusion Schezwan,90,90,1,1,Unit,90,0,12
+FusionDosaRegister,28,12-03-20,BL145,Ordered,Take away,Baby corn chilli cheese,Regular,Fusion Chilli Cheese,90,90,1,1,Unit,90,0,12
+FusionDosaRegister,28,12-03-20,BL145,Ordered,Take away,Paneer dosa,Regular,Fusion Single,90,90,1,1,Unit,90,0,12
+FusionDosaRegister,28,12-03-20,BL148,Ordered,Eat in,Green peas chilli,Regular,Fusion Spicy,90,90,1,1,Unit,90,0,12
+FusionDosaRegister,28,12-03-20,BL152,Ordered,Eat in,Paneer dosa,Regular,Fusion Single,90,90,1,1,Unit,90,0,12
+FusionDosaRegister,28,12-03-20,BL153,Ordered,Eat in,Pavbhaji chilli cheese,Regular,Fusion Chilli Cheese,90,90,1,1,Unit,90,0,12
+FusionDosaRegister,29,13-03-20,BL156,Ordered,Eat in,Paneer masala,Regular,Fusion Masala,90,90,1,1,Unit,90,0,13
+FusionDosaRegister,29,13-03-20,BL157,Ordered,Eat in,Spring roll cheese,Regular,Fusion Doubles,90,90,1,1,Unit,90,0,13
+FusionDosaRegister,29,13-03-20,BL157,Ordered,Eat in,Paneer cheese,Regular,Fusion Doubles,90,90,1,1,Unit,90,0,13
+FusionDosaRegister,29,13-03-20,BL160,Ordered,Eat in,Mushroom cheese,Regular,Fusion Doubles,90,90,1,1,Unit,90,0,13
+FusionDosaRegister,29,13-03-20,BL161,Ordered,Eat in,Spring roll cheese,Regular,Fusion Doubles,90,90,1,1,Unit,90,0,13
+FusionDosaRegister,29,13-03-20,BL164,Ordered,Eat in,Baby corn dosa,Regular,Fusion Single,90,90,1,1,Unit,90,0,13
+FusionDosaRegister,29,13-03-20,BL166,Ordered,Eat in,Paneer cheese,Regular,Fusion Doubles,90,90,1,1,Unit,90,0,13
+FusionDosaRegister,29,13-03-20,BL168,Ordered,Eat in,Masala cheese,Regular,Fusion Masala,90,90,1,1,Unit,90,0,13
+FusionDosaRegister,29,13-03-20,BL171,Ordered,Eat in,Pavbhaji cheese,Regular,Fusion Doubles,90,90,1,1,Unit,90,0,13
+FusionDosaRegister,29,13-03-20,BL171,Ordered,Eat in,Aloo dry masala cheese,Regular,Fusion Doubles,90,90,1,1,Unit,90,0,13
+FusionDosaRegister,30,14-03-20,BL173,Ordered,Eat in,Palak paneer,Regular,Fusion Combo,90,90,1,1,Unit,90,0,14
+FusionDosaRegister,30,14-03-20,BL174,Ordered,Eat in,Pavbhaji chilli cheese,Regular,Fusion Chilli Cheese,90,90,1,1,Unit,90,0,14
+FusionDosaRegister,30,14-03-20,BL174,Ordered,Eat in,Mix veg chilli,Regular,Fusion Spicy,90,90,1,1,Unit,90,0,14
+FusionDosaRegister,30,14-03-20,BL174,Ordered,Eat in,Gobi chilli,Regular,Fusion Spicy,90,90,1,1,Unit,90,0,14
+FusionDosaRegister,30,14-03-20,BL175,Ordered,Eat in,Schezwan mixveg dosa,Regular,Fusion Schezwan,90,90,1,1,Unit,90,0,14
+FusionDosaRegister,30,14-03-20,BL175,Ordered,Eat in,Paneer cheese,Regular,Fusion Doubles,90,90,1,1,Unit,90,0,14
+FusionDosaRegister,30,14-03-20,BL175,Ordered,Eat in,Schezwan spring roll dosa,Regular,Fusion Schezwan,90,90,1,1,Unit,90,0,14
+FusionDosaRegister,30,14-03-20,BL177,Ordered,Eat in,Gobi chilli,Regular,Fusion Spicy,90,90,1,1,Unit,90,0,14
+FusionDosaRegister,30,14-03-20,BL177,Ordered,Eat in,Baby corn dosa,Regular,Fusion Single,90,90,1,1,Unit,90,0,14
+FusionDosaRegister,30,14-03-20,BL180,Ordered,Eat in,Mushroom cheese,Regular,Fusion Doubles,90,90,1,1,Unit,90,0,14
+FusionDosaRegister,30,14-03-20,BL181,Ordered,Eat in,Mushroom cheese,Regular,Fusion Doubles,90,90,1,1,Unit,90,0,14
+FusionDosaRegister,32,16-03-20,BL194,Ordered,Eat in,Chinese cheese,Regular,Fusion Doubles,90,90,1,1,Unit,90,0,16
+FusionDosaRegister,33,17-03-20,BL198,Ordered,Eat in,Paneer sweet corn dosa,Regular,Fusion Combo,90,90,1,1,Unit,90,0,17
+FusionDosaRegister,33,17-03-20,BL201,Ordered,Eat in,Sweet corn cheese,Regular,Fusion Doubles,90,90,1,1,Unit,90,0,17
+FusionDosaRegister,33,17-03-20,BL202,Ordered,Eat in,Kaju green peas,Regular,Fusion Kaju,90,90,1,1,Unit,90,0,17
+FusionDosaRegister,33,17-03-20,BL203,Ordered,Eat in,Spring roll cheese,Regular,Fusion Doubles,90,90,1,1,Unit,90,0,17
+FusionDosaRegister,33,17-03-20,BL204,Ordered,Eat in,Schezwan gobi dosa,Regular,Fusion Schezwan,90,90,1,1,Unit,90,0,17
+FusionDosaRegister,33,17-03-20,BL206,Ordered,Eat in,Paneer dosa,Regular,Fusion Single,90,90,1,1,Unit,90,0,17
+FusionDosaRegister,34,18-03-20,BL209,Ordered,Eat in,Baby corn masala,Regular,Fusion Masala,90,90,1,1,Unit,90,18,18
+FusionDosaRegister,34,18-03-20,BL209,Ordered,Eat in,Gobi cheese,Regular,Fusion Doubles,90,90,1,1,Unit,90,18,18
+FusionDosaRegister,34,18-03-20,BL209,Ordered,Eat in,Gobi chilli,Regular,Fusion Spicy,90,90,1,1,Unit,90,18,18
+FusionDosaRegister,34,18-03-20,BL211,Ordered,Eat in,Paneer cheese,Regular,Fusion Doubles,90,90,1,1,Unit,90,0,18
+FusionDosaRegister,34,18-03-20,BL211,Ordered,Eat in,Baby corn chilli cheese,Regular,Fusion Chilli Cheese,90,90,1,1,Unit,90,0,18
+FusionDosaRegister,34,18-03-20,BL213,Ordered,Eat in,Schezwan mixveg dosa,Regular,Fusion Schezwan,90,90,1,1,Unit,90,0,18
+FusionDosaRegister,34,18-03-20,BL213,Ordered,Eat in,Spring roll cheese,Regular,Fusion Doubles,90,90,1,1,Unit,90,0,18
+FusionDosaRegister,11,06-03-20,BL12,Ordered,Eat in,Schezwan chinese dosa,Regular,Fusion Schezwan,90,90,1,1,Unit,90,40,6
+FusionDosaRegister,11,06-03-20,BL13,Ordered,Eat in,Gobi cheese,Regular,Fusion Doubles,90,90,1,1,Unit,90,40,6
+FusionDosaRegister,11,06-03-20,BL14,Ordered,Eat in,Capsicum chilli,Regular,Fusion Spicy,90,90,1,1,Unit,90,40,6
+FusionDosaRegister,11,06-03-20,BL16,Ordered,Eat in,Gobi chilli,Regular,Fusion Spicy,90,90,1,1,Unit,90,40,6
+CO-1,15,06-03-20,LN12,Ordered,Eat in,Gobi cheese,Regular,Fusion Doubles,90,90,1,1,Unit,90,40,6
+CO-1,15,06-03-20,LN14,Ordered,Eat in,Paneer cheese,Regular,Fusion Doubles,90,90,1,1,Unit,90,40,6
+CO-1,15,06-03-20,LN15,Ordered,Eat in,Capsicum chilli,Regular,Fusion Spicy,90,90,1,1,Unit,90,40,6
+CO-1,15,06-03-20,LN17,Ordered,Eat in,Mushroom cheese,Regular,Fusion Doubles,90,90,1,1,Unit,90,40,6
+CO-1,15,06-03-20,LN17,Ordered,Eat in,Paneer cheese,Regular,Fusion Doubles,90,90,1,1,Unit,90,40,6
+CO-1,15,06-03-20,LN17,Ordered,Eat in,Spring roll cheese,Regular,Fusion Doubles,90,90,1,1,Unit,90,40,6
+CO-1,15,06-03-20,LN19,Ordered,Eat in,Baby corn dosa,Regular,Fusion Single,90,90,1,1,Unit,90,40,6
+CO-1,15,06-03-20,LN26,Ordered,Eat in,Chinese cheese,Regular,Fusion Doubles,90,90,1,1,Unit,90,40,6
+FusionDosaRegister,16,07-03-20,BL18,Ordered,Eat in,Paneer cheese,Regular,Fusion Doubles,90,90,1,1,Unit,90,40,7
+FusionDosaRegister,16,07-03-20,BL18,Ordered,Eat in,Schezwan gobi dosa,Regular,Fusion Schezwan,90,90,1,1,Unit,90,40,7
+FusionDosaRegister,16,07-03-20,BL19,Ordered,Eat in,Paneer masala,Regular,Fusion Masala,90,90,1,1,Unit,90,40,7
+FusionDosaRegister,16,07-03-20,BL20,Ordered,Eat in,Paneer cheese,Regular,Fusion Doubles,90,90,1,1,Unit,90,40,7
+FusionDosaRegister,16,07-03-20,BL20,Ordered,Eat in,Schezwan spring roll dosa,Regular,Fusion Schezwan,90,90,1,1,Unit,90,40,7
+FusionDosaRegister,16,07-03-20,BL21,Ordered,Eat in,Aloo paneer,Regular,Fusion Combo,90,90,1,1,Unit,90,40,7
+FusionDosaRegister,16,07-03-20,BL21,Ordered,Eat in,Mushroom cheese,Regular,Fusion Doubles,90,90,1,1,Unit,90,40,7
+FusionDosaRegister,16,07-03-20,BL22,Ordered,Eat in,Paneer masala,Regular,Fusion Masala,90,90,1,1,Unit,90,40,7
+FusionDosaRegister,16,07-03-20,BL24,Ordered,Eat in,Aloo paneer,Regular,Fusion Combo,90,90,1,1,Unit,90,40,7
+FusionDosaRegister,16,07-03-20,BL24,Ordered,Eat in,Baby corn masala,Regular,Fusion Masala,90,90,1,1,Unit,90,40,7
+FusionDosaRegister,16,07-03-20,BL25,Ordered,Eat in,Sweet corn cheese,Regular,Fusion Doubles,90,90,1,1,Unit,90,40,7
+FusionDosaRegister,16,07-03-20,BL26,Ordered,Eat in,Schezwan gobi dosa,Regular,Fusion Schezwan,90,90,1,1,Unit,90,40,7
+FusionDosaRegister,16,07-03-20,BL31,Ordered,Eat in,Palak paneer,Regular,Fusion Combo,90,90,1,1,Unit,90,40,7
+FusionDosaRegister,16,07-03-20,BL33,Ordered,Eat in,Paneer dosa,Regular,Fusion Single,90,90,1,1,Unit,90,40,7
+FusionDosaRegister,16,07-03-20,BL34,Ordered,Eat in,Pavbhaji cheese,Regular,Fusion Doubles,90,90,1,1,Unit,90,40,7
+FusionDosaRegister,16,07-03-20,BL37,Ordered,Eat in,Paneer dosa,Regular,Fusion Single,90,90,1,1,Unit,90,40,7
+FusionDosaRegister,16,07-03-20,BL39,Ordered,Eat in,Gobi chilli cheese,Regular,Fusion Chilli Cheese,90,90,1,1,Unit,90,40,7
+FusionDosaRegister,16,07-03-20,BL39,Ordered,Eat in,Baby corn chilli cheese,Regular,Fusion Chilli Cheese,90,90,1,1,Unit,90,40,7
+FusionDosaRegister,16,07-03-20,BL40,Ordered,Eat in,Paneer cheese,Regular,Fusion Doubles,90,90,1,1,Unit,90,40,7
+CO-1,20,07-03-20,LN32,Ordered,Eat in,Paneer cheese,Regular,Fusion Doubles,90,90,1,1,Unit,90,40,7
+CO-1,20,07-03-20,LN32,Ordered,Eat in,Mushroom cheese,Regular,Fusion Doubles,90,90,1,1,Unit,90,40,7
+CO-1,20,07-03-20,LN33,Ordered,Eat in,Gobi chilli cheese,Regular,Fusion Chilli Cheese,90,90,1,1,Unit,90,40,7
+CO-1,20,07-03-20,LN33,Ordered,Eat in,Baby corn chilli cheese,Regular,Fusion Chilli Cheese,90,90,1,1,Unit,90,40,7
+CO-1,20,07-03-20,LN36,Ordered,Eat in,Paneer cheese,Regular,Fusion Doubles,90,90,1,1,Unit,90,40,7
+CO-1,20,07-03-20,LN37,Ordered,Eat in,Paneer cheese,Regular,Fusion Doubles,90,90,1,1,Unit,90,40,7
+CO-1,20,07-03-20,LN39,Ordered,Eat in,Aloo paneer,Regular,Fusion Combo,90,90,1,1,Unit,90,40,7
+CO-1,20,07-03-20,LN39,Ordered,Eat in,Baby corn masala,Regular,Fusion Masala,90,90,1,1,Unit,90,40,7
+CO-1,20,07-03-20,LN40,Ordered,Eat in,Paneer masala,Regular,Fusion Masala,90,90,1,1,Unit,90,40,7
+CO-1,20,07-03-20,LN41,Ordered,Eat in,Paneer masala,Regular,Fusion Masala,90,90,1,1,Unit,90,40,7
+CO-1,20,07-03-20,LN42,Ordered,Eat in,Gobi chilli,Regular,Fusion Spicy,90,90,1,1,Unit,90,40,7
+CO-1,21,08-03-20,LN43,Ordered,Eat in,Paneer masala,Regular,Fusion Masala,90,90,1,1,Unit,90,40,8
+CO-1,15,07-03-20,LN26,Ordered,Eat in,Chinese cheese,Regular,Fusion Doubles,90,90,1,1,Unit,90,40,7
+FusionDosaRegister,23,08-03-20,BL42,Ordered,Eat in,Mix veg chilli,Regular,Fusion Spicy,90,90,1,1,Unit,90,40,8
+FusionDosaRegister,23,08-03-20,BL45,Ordered,Eat in,Green peas chilli,Regular,Fusion Spicy,90,90,1,1,Unit,90,40,8
+FusionDosaRegister,23,08-03-20,BL45,Ordered,Eat in,Paneer dosa,Regular,Fusion Single,90,90,1,1,Unit,90,40,8
+FusionDosaRegister,23,08-03-20,BL47,Ordered,Eat in,Baby corn chilli cheese,Regular,Fusion Chilli Cheese,90,90,1,1,Unit,90,40,8
+FusionDosaRegister,23,08-03-20,BL48,Ordered,Eat in,Baby corn chilli cheese,Regular,Fusion Chilli Cheese,90,90,1,1,Unit,90,40,8
+FusionDosaRegister,23,08-03-20,BL49,Ordered,Eat in,Gobi cheese,Regular,Fusion Doubles,90,90,1,1,Unit,90,40,8
+FusionDosaRegister,23,08-03-20,BL49,Ordered,Eat in,Aloo dry masala cheese,Regular,Fusion Doubles,90,90,1,1,Unit,90,40,8
+FusionDosaRegister,23,08-03-20,BL50,Ordered,Eat in,Paneer cheese,Regular,Fusion Doubles,90,90,1,1,Unit,90,40,8
+FusionDosaRegister,23,08-03-20,BL52,Ordered,Eat in,Paneer cheese,Regular,Fusion Doubles,90,90,1,1,Unit,90,40,8
+FusionDosaRegister,23,08-03-20,BL53,Ordered,Eat in,Paneer sweet corn dosa,Regular,Fusion Combo,90,90,1,1,Unit,90,40,8
+FusionDosaRegister,23,08-03-20,BL54,Ordered,Eat in,Paneer masala,Regular,Fusion Masala,90,90,1,1,Unit,90,40,8
+FusionDosaRegister,23,08-03-20,BL55,Ordered,Eat in,Pavbhaji cheese,Regular,Fusion Doubles,90,90,1,1,Unit,90,40,8
+FusionDosaRegister,23,08-03-20,BL56,Ordered,Eat in,Pavbhaji chilli cheese,Regular,Fusion Chilli Cheese,90,90,1,1,Unit,90,40,8
+FusionDosaRegister,23,08-03-20,BL62,Ordered,Eat in,Palak paneer,Regular,Fusion Combo,90,90,1,1,Unit,90,40,8
+FusionDosaRegister,23,08-03-20,BL63,Ordered,Eat in,Paneer dosa,Regular,Fusion Single,90,90,1,1,Unit,90,40,8
+FusionDosaRegister,23,08-03-20,BL64,Ordered,Eat in,Paneer masala,Regular,Fusion Masala,90,90,1,1,Unit,90,40,8
+FusionDosaRegister,23,08-03-20,BL64,Ordered,Eat in,Baby corn masala,Regular,Fusion Masala,90,90,1,1,Unit,90,40,8
+FusionDosaRegister,23,08-03-20,BL65,Ordered,Eat in,Masala cheese,Regular,Fusion Masala,90,90,1,1,Unit,90,40,8
+FusionDosaRegister,23,08-03-20,BL65,Ordered,Eat in,Schezwan baby corn dosa,Regular,Fusion Schezwan,90,90,1,1,Unit,90,40,8
+FusionDosaRegister,23,08-03-20,BL66,Ordered,Eat in,Kaju sweet corn,Regular,Fusion Kaju,90,90,1,1,Unit,90,40,8
+FusionDosaRegister,23,08-03-20,BL67,Ordered,Eat in,Mushroom cheese,Regular,Fusion Doubles,90,90,1,1,Unit,90,40,8
+FusionDosaRegister,23,08-03-20,BL68,Ordered,Eat in,Schezwan mixveg dosa,Regular,Fusion Schezwan,90,90,1,1,Unit,90,40,8
+FusionDosaRegister,23,08-03-20,BL70,Ordered,Eat in,Schezwan mixveg dosa,Regular,Fusion Schezwan,90,90,1,1,Unit,90,40,8
+FusionDosaRegister,23,08-03-20,BL74,Ordered,Eat in,Schezwan gobi dosa,Regular,Fusion Schezwan,90,90,1,1,Unit,90,40,8
+FusionDosaRegister,23,08-03-20,BL75,Ordered,Eat in,Mushroom cheese,Regular,Fusion Doubles,90,90,1,1,Unit,90,40,8
+FusionDosaRegister,23,08-03-20,BL75,Ordered,Eat in,Baby corn chilli cheese,Regular,Fusion Chilli Cheese,90,90,1,1,Unit,90,40,8
+FusionDosaRegister,23,08-03-20,BL75,Ordered,Eat in,Paneer cheese,Regular,Fusion Doubles,90,90,1,1,Unit,90,40,8
+FusionDosaRegister,23,08-03-20,BL76,Ordered,Eat in,Mixveg cheese,Regular,Fusion Doubles,90,90,1,1,Unit,90,40,8
+FusionDosaRegister,24,09-03-20,BL81,Ordered,Eat in,Paneer cheese,Regular,Fusion Doubles,90,90,1,1,Unit,90,40,9
+FusionDosaRegister,24,09-03-20,BL83,Ordered,Eat in,Paneer cheese,Regular,Fusion Doubles,90,90,1,1,Unit,90,40,9
+FusionDosaRegister,24,09-03-20,BL83,Ordered,Eat in,Gobi chilli,Regular,Fusion Spicy,90,90,1,1,Unit,90,40,9
+FusionDosaRegister,24,09-03-20,BL83,Ordered,Eat in,Gobi cheese,Regular,Fusion Doubles,90,90,1,1,Unit,90,40,9
+FusionDosaRegister,24,09-03-20,BL95,Ordered,Eat in,Baby corn chilli cheese,Regular,Fusion Chilli Cheese,90,90,1,1,Unit,90,40,9
+FusionDosaRegister,24,09-03-20,BL95,Ordered,Eat in,Paneer masala,Regular,Fusion Masala,90,90,1,1,Unit,90,40,9
+FusionDosaRegister,24,09-03-20,BL97,Ordered,Eat in,Aloo dry masala cheese,Regular,Fusion Doubles,90,90,1,1,Unit,90,40,9
+FusionDosaRegister,24,09-03-20,BL98,Ordered,Eat in,Paneer cheese,Regular,Fusion Doubles,90,90,1,1,Unit,90,40,9
+FusionDosaRegister,24,09-03-20,BL98,Ordered,Eat in,Mixveg cheese,Regular,Fusion Doubles,90,90,1,1,Unit,90,40,9
+FusionDosaRegister,24,09-03-20,BL99,Ordered,Eat in,Baby corn masala,Regular,Fusion Masala,90,90,1,1,Unit,90,40,9
+FusionDosaRegister,24,09-03-20,BL99,Ordered,Eat in,Paneer masala,Regular,Fusion Masala,90,90,1,1,Unit,90,40,9
+FusionDosaRegister,24,09-03-20,BL100,Ordered,Eat in,Capsicum chilli,Regular,Fusion Spicy,90,90,1,1,Unit,90,40,9
+FusionDosaRegister,25,10-03-20,BL103,Ordered,Eat in,Gobi chilli,Regular,Fusion Spicy,90,90,1,1,Unit,90,40,10
+FusionDosaRegister,25,10-03-20,BL106,Ordered,Eat in,Paneer dosa,Regular,Fusion Single,90,90,1,1,Unit,90,40,10
+FusionDosaRegister,25,10-03-20,BL106,Ordered,Eat in,Gobi cheese,Regular,Fusion Doubles,90,90,1,1,Unit,90,40,10
+FusionDosaRegister,25,10-03-20,BL110,Ordered,Eat in,Schezwan spring roll dosa,Regular,Fusion Schezwan,90,90,1,1,Unit,90,40,10
+FusionDosaRegister,25,10-03-20,BL110,Ordered,Eat in,Masala cheese,Regular,Fusion Masala,90,90,1,1,Unit,90,40,10
+FusionDosaRegister,25,10-03-20,BL111,Ordered,Eat in,Masala cheese,Regular,Fusion Masala,90,90,1,1,Unit,90,40,10
+FusionDosaRegister,25,10-03-20,BL112,Ordered,Eat in,Chinese cheese,Regular,Fusion Doubles,90,90,1,1,Unit,90,40,10
+FusionDosaRegister,25,10-03-20,BL113,Ordered,Eat in,Paneer masala,Regular,Fusion Masala,90,90,1,1,Unit,90,40,10
+FusionDosaRegister,25,10-03-20,BL114,Ordered,Eat in,Gobi chilli,Regular,Fusion Spicy,90,90,1,1,Unit,90,40,10
+FusionDosaRegister,25,10-03-20,BL115,Ordered,Eat in,Schezwan gobi dosa,Regular,Fusion Schezwan,90,90,1,1,Unit,90,40,10
+FusionDosaRegister,25,10-03-20,BL117,Ordered,Eat in,Paneer cheese,Regular,Fusion Doubles,90,90,1,1,Unit,90,40,10
+FusionDosaRegister,25,10-03-20,BL118,Ordered,Eat in,Gobi chilli cheese,Regular,Fusion Chilli Cheese,90,90,1,1,Unit,90,40,10
+FusionDosaRegister,25,10-03-20,BL120,Ordered,Eat in,Paneer cheese,Regular,Fusion Doubles,90,90,1,1,Unit,90,40,10
+FusionDosaRegister,25,10-03-20,BL121,Ordered,Eat in,Masala cheese,Regular,Fusion Masala,90,90,1,1,Unit,90,40,10
+FusionDosaRegister,11,06-03-20,BL11,Ordered,Eat in,Paneer Baby Corn Cheese,Regular,Fusion Triples,110,110,1,1,Unit,110,40,6
+FusionDosaRegister,11,06-03-20,BL12,Ordered,Eat in,Plain dosa,Regular,Fusion Economy,40,40,1,1,Unit,40,0,6
+FusionDosaRegister,11,06-03-20,BL12,Ordered,Eat in,Paneer chinese mushroom,Regular,Fusion Special,130,130,1,1,Unit,130,40,6
+FusionDosaRegister,11,06-03-20,BL13,Ordered,Eat in,Paneer chinese mushroom,Regular,Fusion Special,130,130,1,1,Unit,130,40,6
+FusionDosaRegister,11,06-03-20,BL13,Ordered,Eat in,Schezwan butter onion,Regular,Fusion Economy,60,60,1,1,Unit,60,0,6
+FusionDosaRegister,11,06-03-20,BL14,Ordered,Eat in,Kerala masala dosa,Regular,Fusion Single,80,80,1,1,Unit,80,40,6
+FusionDosaRegister,11,06-03-20,BL15,Ordered,Eat in,Paneer Baby Corn Cheese,Regular,Fusion Triples,110,110,1,1,Unit,110,40,6
+FusionDosaRegister,11,06-03-20,BL16,Ordered,Eat in,Aloo dry masala,Regular,Fusion Masala,80,80,1,1,Unit,80,40,6
+FusionDosaRegister,11,06-03-20,BL16,Ordered,Eat in,Tomato dosa,Regular,Fusion Single,70,70,1,1,Unit,70,0,6
+CO-1,15,06-03-20,LN5,Ordered,Eat in,Paneer chinese mushroom,Regular,Fusion Special,130,130,1,1,Unit,130,40,6
+CO-1,15,06-03-20,LN5,Ordered,Eat in,Plain dosa,Regular,Fusion Economy,40,40,1,1,Unit,40,0,6
+CO-1,15,06-03-20,LN5,Ordered,Eat in,Schezwan cheese dosa,Regular,Fusion Economy,60,60,1,1,Unit,60,0,6
+CO-1,15,06-03-20,LN6,Ordered,Eat in,Aloo dry masala,Regular,Fusion Masala,80,80,1,1,Unit,80,40,6
+CO-1,15,06-03-20,LN8,Ordered,Eat in,Stump dosa or Hatrick dosa,Regular,Fusion Special,140,140,1,1,Unit,140,40,6
+CO-1,15,06-03-20,LN9,Ordered,Eat in,Schezwan cheese dosa,Regular,Fusion Economy,60,60,1,1,Unit,60,0,6
+CO-1,15,06-03-20,LN10,Ordered,Eat in,Mushroom dosa,Regular,Fusion Single,80,80,1,1,Unit,80,40,6
+CO-1,15,06-03-20,LN10,Ordered,Eat in,Schezwan cheese dosa,Regular,Fusion Economy,60,60,1,1,Unit,60,0,6
+CO-1,15,06-03-20,LN11,Ordered,Eat in,Aloo dry chilli,Regular,Fusion Spicy,80,80,1,1,Unit,80,40,6
+CO-1,15,06-03-20,LN12,Ordered,Eat in,Schezwan butter onion,Regular,Fusion Economy,60,60,1,1,Unit,60,0,6
+CO-1,15,06-03-20,LN12,Ordered,Eat in,Paneer chinese mushroom,Regular,Fusion Special,130,130,1,1,Unit,130,40,6
+CO-1,15,06-03-20,LN13,Ordered,Eat in,Pavbhaji masala,Regular,Fusion Masala,80,80,1,1,Unit,80,40,6
+CO-1,15,06-03-20,LN14,Ordered,Eat in,Plain dosa,Regular,Fusion Economy,40,40,1,1,Unit,40,0,6
+CO-1,15,06-03-20,LN15,Ordered,Eat in,Kerala masala dosa,Regular,Fusion Single,80,80,1,1,Unit,80,40,6
+CO-1,15,06-03-20,LN16,Ordered,Eat in,Plain dosa,Regular,Fusion Economy,40,40,1,1,Unit,40,0,6
+CO-1,15,06-03-20,LN16,Ordered,Eat in,Gobi masala,Regular,Fusion Masala,80,80,1,1,Unit,80,40,6
+CO-1,15,06-03-20,LN17,Ordered,Eat in,Plain dosa,Regular,Fusion Economy,40,40,1,1,Unit,40,0,6
+CO-1,15,06-03-20,LN19,Ordered,Eat in,Mexican salsa,Regular,Fusion Vintage,130,130,1,1,Unit,130,40,6
+CO-1,15,06-03-20,LN19,Ordered,Eat in,Delight dosa,Regular,Fusion Special,120,120,1,1,Unit,120,40,6
+CO-1,15,06-03-20,LN20,Ordered,Eat in,Schezwan butter onion,Regular,Fusion Economy,60,60,1,1,Unit,60,0,6
+CO-1,15,06-03-20,LN23,Ordered,Eat in,Mexican salsa,Regular,Fusion Vintage,130,130,1,1,Unit,130,40,6
+CO-1,15,06-03-20,LN24,Ordered,Eat in,Schezwan butter onion,Regular,Fusion Economy,60,60,1,1,Unit,60,0,6
+CO-1,15,06-03-20,LN26,Ordered,Eat in,Gobi masala,Regular,Fusion Masala,80,80,1,1,Unit,80,40,6
+CO-1,15,06-03-20,LN27,Ordered,Eat in,Chinese dosa,Regular,Fusion Single,80,80,1,1,Unit,80,40,6
+CO-1,15,06-03-20,LN27,Ordered,Eat in,Paneer Baby Corn Cheese,Regular,Fusion Triples,110,110,1,1,Unit,110,40,6
+CO-1,15,06-03-20,LN27,Ordered,Eat in,Stump dosa or Hatrick dosa,Regular,Fusion Special,140,140,1,1,Unit,140,40,6
+FusionDosaRegister,16,07-03-20,BL19,Ordered,Eat in,Paneer chinese mushroom,Regular,Fusion Special,130,130,1,1,Unit,130,40,7
+FusionDosaRegister,16,07-03-20,BL24,Ordered,Eat in,Chinese dosa,Regular,Fusion Single,80,80,1,1,Unit,80,40,7
+FusionDosaRegister,16,07-03-20,BL24,Ordered,Eat in,Mysore masala,Regular,Fusion Masala,80,80,1,1,Unit,80,40,7
+FusionDosaRegister,16,07-03-20,BL25,Ordered,Eat in,Paneer chinese mushroom,Regular,Fusion Special,130,130,1,1,Unit,130,40,7
+FusionDosaRegister,16,07-03-20,BL26,Ordered,Eat in,Plain dosa,Regular,Fusion Economy,40,40,1,1,Unit,40,0,7
+FusionDosaRegister,16,07-03-20,BL27,Ordered,Eat in,Schezwan butter plain dosa,Regular,Fusion Economy,60,60,1,1,Unit,60,0,7
+FusionDosaRegister,16,07-03-20,BL28,Ordered,Eat in,Aloo Gobi,Regular,Fusion Combo,80,80,1,1,Unit,80,40,7
+FusionDosaRegister,16,07-03-20,BL28,Ordered,Eat in,Plain dosa,Regular,Fusion Economy,40,40,1,1,Unit,40,0,7
+FusionDosaRegister,16,07-03-20,BL28,Ordered,Eat in,Mushroom dosa,Regular,Fusion Single,80,80,1,1,Unit,80,40,7
+FusionDosaRegister,16,07-03-20,BL29,Ordered,Eat in,Mushroom dosa,Regular,Fusion Single,80,80,1,1,Unit,80,40,7
+FusionDosaRegister,16,07-03-20,BL30,Ordered,Eat in,Aloo dry masala,Regular,Fusion Masala,80,80,1,1,Unit,80,40,7
+FusionDosaRegister,16,07-03-20,BL32,Ordered,Eat in,Aloo Gobi,Regular,Fusion Combo,80,80,1,1,Unit,80,40,7
+FusionDosaRegister,16,07-03-20,BL33,Ordered,Eat in,Plain dosa,Regular,Fusion Economy,40,40,1,1,Unit,40,0,7
+FusionDosaRegister,16,07-03-20,BL34,Ordered,Eat in,Schezwan butter onion,Regular,Fusion Economy,60,60,1,1,Unit,60,0,7
+FusionDosaRegister,16,07-03-20,BL36,Ordered,Eat in,Mushroom dosa,Regular,Fusion Single,80,80,1,1,Unit,80,40,7
+FusionDosaRegister,16,07-03-20,BL36,Ordered,Eat in,Schezwan Aloo dry masala,Regular,Fusion Schezwan,80,80,1,1,Unit,80,40,7
+FusionDosaRegister,16,07-03-20,BL37,Ordered,Eat in,Paneer chinese mushroom,Regular,Fusion Special,130,130,1,1,Unit,130,40,7
+CO-1,20,07-03-20,LN31,Ordered,Eat in,Schezwan Aloo dry masala,Regular,Fusion Schezwan,80,80,1,1,Unit,80,40,7
+CO-1,20,07-03-20,LN31,Ordered,Eat in,Mushroom dosa,Regular,Fusion Single,80,80,1,1,Unit,80,40,7
+CO-1,20,07-03-20,LN38,Ordered,Eat in,Chinese dosa,Regular,Fusion Single,80,80,1,1,Unit,80,40,7
+CO-1,20,07-03-20,LN39,Ordered,Eat in,Mysore masala,Regular,Fusion Masala,80,80,1,1,Unit,80,40,7
+CO-1,20,07-03-20,LN39,Ordered,Eat in,Chinese dosa,Regular,Fusion Single,80,80,1,1,Unit,80,40,7
+CO-1,20,07-03-20,LN40,Ordered,Eat in,Kerala masala dosa,Regular,Fusion Single,80,80,1,1,Unit,80,40,7
+CO-1,15,07-03-20,LN26,Ordered,Eat in,Gobi masala,Regular,Fusion Masala,80,80,1,1,Unit,80,40,7
+CO-1,15,07-03-20,LN27,Ordered,Eat in,Chinese dosa,Regular,Fusion Single,80,80,1,1,Unit,80,40,7
+CO-1,15,07-03-20,LN27,Ordered,Eat in,Paneer Baby Corn Cheese,Regular,Fusion Triples,110,110,1,1,Unit,110,40,7
+CO-1,15,07-03-20,LN27,Ordered,Eat in,Stump dosa or Hatrick dosa,Regular,Fusion Special,140,140,1,1,Unit,140,40,7
+FusionDosaRegister,23,08-03-20,BL42,Ordered,Eat in,Kaju paneer cheese,Regular,Fusion Special,130,130,1,1,Unit,130,40,8
+FusionDosaRegister,23,08-03-20,BL44,Ordered,Eat in,Paneer Baby Corn Cheese,Regular,Fusion Triples,120,120,1,1,Unit,120,40,8
+FusionDosaRegister,23,08-03-20,BL45,Ordered,Eat in,Stump dosa or Hatrick dosa,Regular,Fusion Special,140,140,1,1,Unit,140,40,8
+FusionDosaRegister,23,08-03-20,BL45,Ordered,Eat in,Mix veg dosa,Regular,Fusion Single,80,80,1,1,Unit,80,40,8
+FusionDosaRegister,23,08-03-20,BL46,Ordered,Eat in,Aloo Plalak,Regular,Fusion Combo,80,80,1,1,Unit,80,40,8
+FusionDosaRegister,23,08-03-20,BL46,Ordered,Eat in,Aloo dry chilli,Regular,Fusion Spicy,80,80,1,1,Unit,80,40,8
+FusionDosaRegister,23,08-03-20,BL46,Ordered,Eat in,Schezwan Aloo dry masala,Regular,Fusion Schezwan,80,80,1,1,Unit,80,40,8
+FusionDosaRegister,23,08-03-20,BL46,Ordered,Eat in,Green peas dosa,Regular,Fusion Single,80,80,1,1,Unit,80,40,8
+FusionDosaRegister,23,08-03-20,BL47,Ordered,Eat in,Kaju paneer cheese,Regular,Fusion Special,130,130,1,1,Unit,130,40,8
+FusionDosaRegister,23,08-03-20,BL47,Ordered,Eat in,Stump dosa or Hatrick dosa,Regular,Fusion Special,140,140,1,1,Unit,140,40,8
+FusionDosaRegister,23,08-03-20,BL50,Ordered,Eat in,Gobi masala,Regular,Fusion Masala,80,80,1,1,Unit,80,40,8
+FusionDosaRegister,23,08-03-20,BL51,Ordered,Eat in,Schezwan butter plain dosa,Regular,Fusion Economy,60,60,1,1,Unit,60,0,8
+FusionDosaRegister,23,08-03-20,BL52,Ordered,Eat in,Stump dosa or Hatrick dosa,Regular,Fusion Special,140,140,1,1,Unit,140,40,8
+FusionDosaRegister,23,08-03-20,BL53,Ordered,Eat in,Mushroom dosa,Regular,Fusion Single,80,80,1,1,Unit,80,40,8
+FusionDosaRegister,23,08-03-20,BL53,Ordered,Eat in,Tomato dosa,Regular,Fusion Single,70,70,1,1,Unit,70,0,8
+FusionDosaRegister,23,08-03-20,BL53,Ordered,Eat in,Aloo Gobi,Regular,Fusion Combo,80,80,1,1,Unit,80,40,8
+FusionDosaRegister,23,08-03-20,BL54,Ordered,Eat in,Gobi dosa,Regular,Fusion Single,80,80,1,1,Unit,80,40,8
+FusionDosaRegister,23,08-03-20,BL57,Ordered,Eat in,Mushroom dosa,Regular,Fusion Single,80,80,1,1,Unit,80,40,8
+FusionDosaRegister,23,08-03-20,BL60,Ordered,Eat in,Capsicam cheese,Regular,Fusion Doubles,80,80,1,1,Unit,80,40,8
+FusionDosaRegister,23,08-03-20,BL72,Ordered,Eat in,Paneer chinese mushroom,Regular,Fusion Special,130,130,1,1,Unit,130,40,8
+FusionDosaRegister,23,08-03-20,BL73,Ordered,Eat in,Paneer chinese mushroom,Regular,Fusion Special,130,130,1,1,Unit,130,40,8
+FusionDosaRegister,23,08-03-20,BL74,Ordered,Eat in,Butter plain dosa,Regular,Fusion Economy,50,50,1,1,Unit,50,0,8
+FusionDosaRegister,24,09-03-20,BL77,Ordered,Eat in,Delight dosa,Regular,Fusion Special,120,120,1,1,Unit,120,40,9
+FusionDosaRegister,24,09-03-20,BL78,Ordered,Eat in,Aloo dry masala,Regular,Fusion Masala,80,80,1,1,Unit,80,40,9
+FusionDosaRegister,24,09-03-20,BL79,Ordered,Eat in,Tomato cheese,Regular,Fusion Doubles,80,80,1,1,Unit,80,40,9
+FusionDosaRegister,24,09-03-20,BL79,Ordered,Eat in,Mysore masala,Regular,Fusion Masala,80,80,1,1,Unit,80,40,9
+FusionDosaRegister,24,09-03-20,BL80,Ordered,Eat in,Stump dosa or Hatrick dosa,Regular,Fusion Special,140,140,1,1,Unit,140,40,9
+FusionDosaRegister,24,09-03-20,BL80,Ordered,Eat in,Paneer chinese mushroom,Regular,Fusion Special,130,130,1,1,Unit,130,40,9
+FusionDosaRegister,24,09-03-20,BL85,Ordered,Eat in,Paneer chinese mushroom,Regular,Fusion Special,130,130,1,1,Unit,130,40,9
+FusionDosaRegister,24,09-03-20,BL86,Ordered,Eat in,Schezwan butter onion,Regular,Fusion Economy,60,60,1,1,Unit,60,0,9
+FusionDosaRegister,24,09-03-20,BL87,Ordered,Eat in,Schezwan butter onion,Regular,Fusion Economy,60,60,1,1,Unit,60,0,9
+FusionDosaRegister,24,09-03-20,BL89,Ordered,Eat in,Aloo dry chilli,Regular,Fusion Spicy,80,80,1,1,Unit,80,40,9
+FusionDosaRegister,24,09-03-20,BL93,Ordered,Eat in,Aloo dry chilli,Regular,Fusion Spicy,80,80,1,1,Unit,80,40,9
+FusionDosaRegister,24,09-03-20,BL94,Ordered,Eat in,Mexican salsa,Regular,Fusion Vintage,130,130,1,1,Unit,130,40,9
+FusionDosaRegister,24,09-03-20,BL94,Ordered,Eat in,Alleppey special,Regular,Fusion Vintage,120,120,1,1,Unit,120,40,9
+FusionDosaRegister,24,09-03-20,BL94,Ordered,Eat in,Delight dosa,Regular,Fusion Special,120,120,1,1,Unit,120,40,9
+FusionDosaRegister,24,09-03-20,BL95,Ordered,Eat in,Plain dosa,Regular,Fusion Economy,40,40,1,1,Unit,40,0,9
+FusionDosaRegister,24,09-03-20,BL95,Ordered,Eat in,Schezwan butter onion,Regular,Fusion Economy,60,60,1,1,Unit,60,0,9
+FusionDosaRegister,24,09-03-20,BL100,Ordered,Eat in,Aloo dry masala,Regular,Fusion Masala,80,80,1,1,Unit,80,40,9
+FusionDosaRegister,25,10-03-20,BL101,Ordered,Eat in,Mushroom dosa,Regular,Fusion Single,80,80,1,1,Unit,80,40,10
+FusionDosaRegister,25,10-03-20,BL102,Ordered,Eat in,Butter plain dosa,Regular,Fusion Economy,50,50,1,1,Unit,50,0,10
+FusionDosaRegister,25,10-03-20,BL105,Ordered,Eat in,Mushroom dosa,Regular,Fusion Single,80,80,1,1,Unit,80,40,10
+FusionDosaRegister,25,10-03-20,BL106,Ordered,Eat in,Butter plain dosa,Regular,Fusion Economy,50,50,1,1,Unit,50,0,10
+FusionDosaRegister,25,10-03-20,BL107,Ordered,Eat in,Mexican salsa,Regular,Fusion Vintage,130,130,1,1,Unit,130,40,10
+FusionDosaRegister,25,10-03-20,BL107,Ordered,Eat in,Kaju paneer cheese,Regular,Fusion Special,130,130,1,1,Unit,130,40,10
+FusionDosaRegister,25,10-03-20,BL109,Ordered,Eat in,Kerala masala dosa,Regular,Fusion Single,80,80,1,1,Unit,80,40,10
+FusionDosaRegister,25,10-03-20,BL110,Ordered,Eat in,Mexican salsa,Regular,Fusion Vintage,130,130,1,1,Unit,130,40,10
+FusionDosaRegister,25,10-03-20,BL110,Ordered,Eat in,Delight dosa,Regular,Fusion Special,120,120,1,1,Unit,120,40,10
+FusionDosaRegister,25,10-03-20,BL119,Ordered,Eat in,Aloo dry chilli,Regular,Fusion Spicy,80,80,1,1,Unit,80,40,10
+FusionDosaRegister,25,10-03-20,BL119,Ordered,Eat in,Tomato cheese,Regular,Fusion Doubles,80,80,1,1,Unit,80,40,10
+FusionDosaRegister,27,11-03-20,BL123,Ordered,Eat in,Schezwan butter onion,Regular,Fusion Economy,60,60,1,1,Unit,60,0,11
+FusionDosaRegister,27,11-03-20,BL127,Ordered,Eat in,Mix veg dosa,Regular,Fusion Single,80,80,1,1,Unit,80,0,11
+FusionDosaRegister,27,11-03-20,BL127,Ordered,Eat in,Plain dosa,Regular,Fusion Economy,40,40,1,1,Unit,40,0,11
+FusionDosaRegister,27,11-03-20,BL127,Ordered,Eat in,Cheese plain dosa,Regular,Fusion Economy,60,60,1,1,Unit,60,0,11
+FusionDosaRegister,27,11-03-20,BL134,Ordered,Eat in,Delight dosa,Regular,Fusion Special,120,120,1,1,Unit,120,0,11
+FusionDosaRegister,27,11-03-20,BL135,Ordered,Eat in,Schezwan butter onion,Regular,Fusion Economy,60,60,1,1,Unit,60,0,11
+FusionDosaRegister,27,11-03-20,BL136,Ordered,Eat in,Mushroom dosa,Regular,Fusion Single,80,80,1,1,Unit,80,0,11
+FusionDosaRegister,28,12-03-20,BL141,Ordered,Eat in,Plain dosa,Regular,Fusion Economy,40,40,1,1,Unit,40,0,12
+FusionDosaRegister,28,12-03-20,BL144,Ordered,Take away,Stump dosa or Hatrick dosa,Regular,Fusion Special,140,140,1,1,Unit,140,0,12
+FusionDosaRegister,28,12-03-20,BL147,Ordered,Take away,Plain dosa,Regular,Fusion Economy,40,40,1,1,Unit,40,0,12
+FusionDosaRegister,28,12-03-20,BL148,Ordered,Eat in,Masala chilli,Regular,Fusion Masala,80,80,1,1,Unit,80,0,12
+FusionDosaRegister,28,12-03-20,BL149,Ordered,Take away,Plain dosa,Regular,Fusion Economy,40,40,1,1,Unit,40,0,12
+FusionDosaRegister,28,12-03-20,BL149,Ordered,Take away,Aloo Gobi,Regular,Fusion Combo,80,80,1,1,Unit,80,0,12
+FusionDosaRegister,28,12-03-20,BL149,Ordered,Take away,Mushroom dosa,Regular,Fusion Single,80,80,1,1,Unit,80,0,12
+FusionDosaRegister,28,12-03-20,BL150,Ordered,Take away,Butter plain dosa,Regular,Fusion Economy,50,50,1,1,Unit,50,0,12
+FusionDosaRegister,28,12-03-20,BL151,Ordered,Eat in,Butter plain dosa,Regular,Fusion Economy,50,50,1,1,Unit,50,0,12
+FusionDosaRegister,28,12-03-20,BL154,Ordered,Eat in,Delight dosa,Regular,Fusion Special,120,120,1,1,Unit,120,0,12
+FusionDosaRegister,29,13-03-20,BL158,Ordered,Eat in,Schezwan butter onion,Regular,Fusion Economy,60,60,1,1,Unit,60,0,13
+FusionDosaRegister,29,13-03-20,BL158,Ordered,Eat in,Butter plain dosa,Regular,Fusion Economy,50,50,1,1,Unit,50,0,13
+FusionDosaRegister,29,13-03-20,BL158,Ordered,Eat in,Aloo dry masala,Regular,Fusion Masala,80,80,1,1,Unit,80,0,13
+FusionDosaRegister,29,13-03-20,BL159,Ordered,Eat in,Kaju paneer cheese,Regular,Fusion Special,130,130,1,1,Unit,130,0,13
+FusionDosaRegister,29,13-03-20,BL160,Ordered,Eat in,Aloo dry masala,Regular,Fusion Masala,80,80,1,1,Unit,80,0,13
+FusionDosaRegister,29,13-03-20,BL160,Ordered,Eat in,Plain dosa,Regular,Fusion Economy,40,40,1,1,Unit,40,0,13
+FusionDosaRegister,29,13-03-20,BL162,Ordered,Eat in,Mushroom dosa,Regular,Fusion Single,80,80,1,1,Unit,80,0,13
+FusionDosaRegister,29,13-03-20,BL164,Ordered,Eat in,Kaju paneer cheese,Regular,Fusion Special,130,130,1,1,Unit,130,0,13
+FusionDosaRegister,29,13-03-20,BL164,Ordered,Eat in,Delight dosa,Regular,Fusion Special,120,120,1,1,Unit,120,0,13
+FusionDosaRegister,29,13-03-20,BL166,Ordered,Eat in,Plain dosa,Regular,Fusion Economy,40,40,1,1,Unit,40,0,13
+FusionDosaRegister,29,13-03-20,BL166,Ordered,Eat in,Schezwan butter onion,Regular,Fusion Economy,60,60,1,1,Unit,60,0,13
+FusionDosaRegister,29,13-03-20,BL167,Ordered,Eat in,Butter plain dosa,Regular,Fusion Economy,50,50,1,1,Unit,50,0,13
+FusionDosaRegister,29,13-03-20,BL170,Ordered,Eat in,Stump dosa or Hatrick dosa,Regular,Fusion Special,140,140,1,1,Unit,140,0,13
+FusionDosaRegister,29,13-03-20,BL171,Ordered,Eat in,Schezwan cheese dosa,Regular,Fusion Economy,60,60,1,1,Unit,60,0,13
+FusionDosaRegister,30,14-03-20,BL175,Ordered,Eat in,Mexican salsa,Regular,Fusion Vintage,130,130,1,1,Unit,130,0,14
+FusionDosaRegister,30,14-03-20,BL175,Ordered,Eat in,Stump dosa or Hatrick dosa,Regular,Fusion Special,140,140,1,1,Unit,140,0,14
+FusionDosaRegister,30,14-03-20,BL175,Ordered,Eat in,Kaju paneer cheese,Regular,Fusion Special,130,130,1,1,Unit,130,0,14
+FusionDosaRegister,30,14-03-20,BL177,Ordered,Eat in,Butter plain dosa,Regular,Fusion Economy,50,50,1,1,Unit,50,0,14
+FusionDosaRegister,30,14-03-20,BL178,Ordered,Eat in,Kaju paneer cheese,Regular,Fusion Special,130,130,1,1,Unit,130,0,14
+FusionDosaRegister,30,14-03-20,BL179,Ordered,Eat in,Stump dosa or Hatrick dosa,Regular,Fusion Special,140,140,1,1,Unit,140,0,14
+FusionDosaRegister,30,14-03-20,BL180,Ordered,Eat in,Schezwan cheese dosa,Regular,Fusion Economy,60,60,1,1,Unit,60,0,14
+FusionDosaRegister,30,14-03-20,BL180,Ordered,Eat in,Plain dosa,Regular,Fusion Economy,40,40,1,1,Unit,40,0,14
+FusionDosaRegister,30,14-03-20,BL181,Ordered,Eat in,Cheese plain dosa,Regular,Fusion Economy,60,60,1,1,Unit,60,0,14
+FusionDosaRegister,30,14-03-20,BL183,Ordered,Eat in,Plain dosa,Regular,Fusion Economy,40,40,1,1,Unit,40,0,14
+FusionDosaRegister,30,14-03-20,BL183,Ordered,Eat in,Aloo dry chilli,Regular,Fusion Spicy,80,80,1,1,Unit,80,0,14
+FusionDosaRegister,31,15-03-20,BL186,Ordered,Eat in,Plain dosa,Regular,Fusion Economy,40,40,1,1,Unit,40,0,15
+FusionDosaRegister,31,15-03-20,BL186,Ordered,Eat in,Schezwan butter plain dosa,Regular,Fusion Economy,60,60,1,1,Unit,60,0,15
+FusionDosaRegister,31,15-03-20,BL187,Ordered,Eat in,Schezwan butter plain dosa,Regular,Fusion Economy,60,60,1,1,Unit,60,0,15
+FusionDosaRegister,31,15-03-20,BL188,Ordered,Eat in,Schezwan cheese dosa,Regular,Fusion Economy,60,60,1,1,Unit,60,0,15
+FusionDosaRegister,31,15-03-20,BL189,Ordered,Eat in,Butter plain dosa,Regular,Fusion Economy,50,50,1,1,Unit,50,0,15
+FusionDosaRegister,31,15-03-20,BL189,Ordered,Eat in,Chinese dosa,Regular,Fusion Single,80,80,1,1,Unit,80,0,15
+FusionDosaRegister,31,15-03-20,BL189,Ordered,Eat in,Mysore masala,Regular,Fusion Masala,80,80,1,1,Unit,80,0,15
+FusionDosaRegister,31,15-03-20,BL190,Ordered,Eat in,Mexican salsa,Regular,Fusion Vintage,130,130,1,1,Unit,130,0,15
+FusionDosaRegister,32,16-03-20,BL193,Ordered,Eat in,Green peas dosa,Regular,Fusion Single,80,80,1,1,Unit,80,0,16
+FusionDosaRegister,32,16-03-20,BL195,Ordered,Eat in,Delight dosa,Regular,Fusion Special,120,120,1,1,Unit,120,0,16
+FusionDosaRegister,32,16-03-20,BL196,Ordered,Eat in,Schezwan butter onion,Regular,Fusion Economy,60,60,1,1,Unit,60,0,16
+FusionDosaRegister,32,16-03-20,BL197,Ordered,Eat in,Kaju paneer cheese,Regular,Fusion Special,130,130,1,1,Unit,130,0,16
+FusionDosaRegister,32,16-03-20,BL197,Ordered,Eat in,Plain dosa,Regular,Fusion Economy,40,40,1,1,Unit,40,0,16
+FusionDosaRegister,33,17-03-20,BL200,Ordered,Eat in,Paneer chinese mushroom,Regular,Fusion Special,130,130,1,1,Unit,130,0,17
+FusionDosaRegister,33,17-03-20,BL202,Ordered,Eat in,Plain dosa,Regular,Fusion Economy,40,40,1,1,Unit,40,0,17
+FusionDosaRegister,33,17-03-20,BL203,Ordered,Eat in,Tomato dosa,Regular,Fusion Single,70,70,1,1,Unit,70,0,17
+FusionDosaRegister,33,17-03-20,BL205,Ordered,Eat in,Schezwan cheese dosa,Regular,Fusion Economy,60,60,1,1,Unit,60,0,17
+FusionDosaRegister,34,18-03-20,BL210,Ordered,Eat in,Schezwan butter onion,Regular,Fusion Economy,60,60,1,1,Unit,60,0,18
+FusionDosaRegister,34,18-03-20,BL212,Ordered,Eat in,Schezwan cheese dosa,Regular,Fusion Economy,60,60,1,1,Unit,60,0,18
+FusionDosaRegister,34,18-03-20,BL213,Ordered,Eat in,Masala chilli,Regular,Fusion Masala,80,80,1,1,Unit,80,0,18
+FusionDosaRegister,34,18-03-20,BL213,Ordered,Eat in,Plain dosa,Regular,Fusion Economy,40,40,1,1,Unit,40,0,18
+FusionDosaRegister,34,18-03-20,BL215,Ordered,Eat in,Plain dosa,Regular,Fusion Economy,40,40,1,1,Unit,40,0,18
+FusionDosaRegister,35,19-03-20,BL218,Ordered,Eat in,Butter plain dosa,Regular,Fusion Economy,50,50,1,1,Unit,50,10,19
+FusionDosaRegister,35,19-03-20,BL218,Ordered,Eat in,Paneer chinese mushroom,Regular,Fusion Special,130,130,1,1,Unit,130,26,19
+FusionDosaRegister,35,19-03-20,BL219,Ordered,Eat in,Stump dosa or Hatrick dosa,Regular,Fusion Special,140,140,1,1,Unit,140,0,19
+FusionDosaRegister,35,19-03-20,BL224,Ordered,Eat in,Schezwan butter onion,Regular,Fusion Economy,60,60,1,1,Unit,60,0,19
+FusionDosaRegister,35,19-03-20,BL224,Ordered,Eat in,Butter plain dosa,Regular,Fusion Economy,50,50,1,1,Unit,50,0,19
+FusionDosaRegister,11,06-03-20,BL12,Ordered,Eat in,Mushroom chilli cheese,Regular,Fusion Chilli Cheese,100,100,2,2,Unit,200,80,6
+FusionDosaRegister,11,06-03-20,BL14,Ordered,Eat in,Paneer chilli,Regular,Fusion Spicy,100,100,2,2,Unit,200,80,6
+FusionDosaRegister,11,06-03-20,BL15,Ordered,Eat in,Plain dosa,Regular,Fusion Economy,40,40,2,2,Unit,80,0,6
+CO-1,15,06-03-20,LN15,Ordered,Eat in,Paneer chilli,Regular,Fusion Spicy,100,100,2,2,Unit,200,80,6
+CO-1,15,06-03-20,LN16,Ordered,Eat in,Paneer masala,Regular,Fusion Masala,90,90,2,2,Unit,180,80,6
+CO-1,15,06-03-20,LN18,Ordered,Eat in,Plain dosa,Regular,Fusion Economy,40,40,2,2,Unit,80,0,6
+CO-1,15,06-03-20,LN22,Ordered,Eat in,Gobi chilli,Regular,Fusion Spicy,90,90,3,3,Unit,270,120,6
+CO-1,15,06-03-20,LN22,Ordered,Eat in,Plain dosa,Regular,Fusion Economy,40,40,2,2,Unit,80,0,6
+CO-1,15,06-03-20,LN25,Ordered,Eat in,Kerala masala dosa,Regular,Fusion Single,80,80,3,3,Unit,240,120,6
+FusionDosaRegister,16,07-03-20,BL27,Ordered,Eat in,Butter plain dosa,Regular,Fusion Economy,50,50,2,2,Unit,100,0,7
+FusionDosaRegister,16,07-03-20,BL38,Ordered,Eat in,Paneer dosa,Regular,Fusion Single,90,90,2,2,Unit,180,80,7
+FusionDosaRegister,16,07-03-20,BL41,Ordered,Eat in,Gobi masala,Regular,Fusion Masala,80,80,2,2,Unit,160,80,7
+CO-1,20,07-03-20,LN34,Ordered,Eat in,Gobi masala,Regular,Fusion Masala,80,80,2,2,Unit,160,80,7
+CO-1,20,07-03-20,LN40,Ordered,Eat in,Baby corn chilli cheese,Regular,Fusion Chilli Cheese,90,90,2,2,Unit,180,80,7
+CO-1,15,07-03-20,LN25,Ordered,Eat in,Kerala masala dosa,Regular,Fusion Single,80,80,3,3,Unit,240,120,7
+FusionDosaRegister,23,08-03-20,BL48,Ordered,Eat in,Plain dosa,Regular,Fusion Economy,40,40,2,2,Unit,80,0,8
+FusionDosaRegister,24,09-03-20,BL90,Ordered,Eat in,Pizza dosa,Regular,Fusion Vintage,100,100,2,2,Unit,200,80,9
+FusionDosaRegister,24,09-03-20,BL94,Ordered,Eat in,Chinese mushroom,Regular,Fusion Combo,100,100,2,2,Unit,200,80,9
+FusionDosaRegister,24,09-03-20,BL94,Ordered,Eat in,Pizza dosa,Regular,Fusion Vintage,100,100,3,3,Unit,300,120,9
+FusionDosaRegister,24,09-03-20,BL98,Ordered,Eat in,Gobi cheese,Regular,Fusion Doubles,90,90,2,2,Unit,180,80,9
+FusionDosaRegister,25,10-03-20,BL111,Ordered,Eat in,Pizza dosa,Regular,Fusion Vintage,100,100,2,2,Unit,200,80,10
+FusionDosaRegister,25,10-03-20,BL114,Ordered,Eat in,Pizza dosa,Regular,Fusion Vintage,100,100,2,2,Unit,200,80,10
+FusionDosaRegister,25,10-03-20,BL119,Ordered,Eat in,Pizza dosa,Regular,Fusion Vintage,100,100,2,2,Unit,200,80,10
+FusionDosaRegister,27,11-03-20,BL125,Ordered,Eat in,Mushroom dosa,Regular,Fusion Single,80,80,2,2,Unit,160,0,11
+FusionDosaRegister,27,11-03-20,BL125,Ordered,Eat in,Plain dosa,Regular,Fusion Economy,40,40,2,2,Unit,80,0,11
+FusionDosaRegister,27,11-03-20,BL126,Ordered,Take away,Stump dosa or Hatrick dosa,Regular,Fusion Special,140,140,2,2,Unit,280,0,11
+FusionDosaRegister,27,11-03-20,BL128,Ordered,Take away,Pizza dosa,Regular,Fusion Vintage,100,100,3,3,Unit,300,0,11
+FusionDosaRegister,27,11-03-20,BL137,Ordered,Eat in,Plain dosa,Regular,Fusion Economy,40,40,2,2,Unit,80,0,11
+FusionDosaRegister,28,12-03-20,BL140,Ordered,Eat in,Butter plain dosa,Regular,Fusion Economy,50,50,2,2,Unit,100,0,12
+FusionDosaRegister,28,12-03-20,BL155,Ordered,Eat in,Baby corn chilli cheese,Regular,Fusion Chilli Cheese,90,90,2,2,Unit,180,0,12
+FusionDosaRegister,29,13-03-20,BL169,Ordered,Eat in,Plain dosa,Regular,Fusion Economy,40,40,2,2,Unit,80,0,13
+FusionDosaRegister,30,14-03-20,BL174,Ordered,Eat in,Schezwan butter plain dosa,Regular,Fusion Economy,60,60,2,2,Unit,120,0,14
+FusionDosaRegister,30,14-03-20,BL175,Ordered,Eat in,Pizza dosa,Regular,Fusion Vintage,100,100,2,2,Unit,200,0,14
+FusionDosaRegister,30,14-03-20,BL175,Ordered,Eat in,American chopsuey,Regular,Fusion Vintage,100,100,2,2,Unit,200,0,14
+FusionDosaRegister,30,14-03-20,BL175,Ordered,Eat in,Plain dosa,Regular,Fusion Economy,40,40,2,2,Unit,80,0,14
+FusionDosaRegister,30,14-03-20,BL176,Ordered,Eat in,Plain dosa,Regular,Fusion Economy,40,40,2,2,Unit,80,0,14
+FusionDosaRegister,31,15-03-20,BL184,Ordered,Eat in,Mushroom chilli cheese,Regular,Fusion Chilli Cheese,100,100,2,2,Unit,200,0,15
+FusionDosaRegister,33,17-03-20,BL207,Ordered,Eat in,Paneer chinese mushroom,Regular,Fusion Special,130,130,2,2,Unit,260,0,17
+FusionDosaRegister,34,18-03-20,BL216,Ordered,Eat in,Plain dosa,Regular,Fusion Economy,40,40,2,2,Unit,80,0,18
+FusionDosaRegister,35,19-03-20,BL222,Ordered,Eat in,Cheese plain dosa,Regular,Fusion Economy,60,60,2,2,Unit,120,0,19
